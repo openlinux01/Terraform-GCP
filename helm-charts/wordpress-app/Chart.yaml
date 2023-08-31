@@ -1,0 +1,4 @@
+apiVersion: v1
+name: wordpress-app
+appVersion: 0.1.0
+version: 1.2.3
